@@ -1,0 +1,75 @@
+Satisfied,Temporary,Gender,MailingAddress,Length,HousingOpp,HoldDown,MentalCare,ChronicDisease,Construction,Orgs,Eviction12
+yes,yes,male,yes,6,yes,yes,yes,no,,-,
+yes,yes,male,yes,36,no,no,no,no,,-,
+yes,yes,male,yes,36,yes,yes,yes,yes,,-,
+yes,yes,male,no,6,no,no,no,no,,-,
+yes,yes,male,no,3,yes,yes,yes,no,,-,
+yes,yes,male,no,,yes,yes,no,no,,-,
+yes,yes,female,yes,6,yes,yes,yes,yes,,-,
+yes,yes,male,yes,24,yes,yes,yes,no,,-,
+yes,n/a,female,yes,,no,no,no,no,,-,
+yes,yes,female,yes,12,yes,yes,no,no,,-,
+yes,yes,male,no,4,yes,yes,no,no,,-,
+yes,yes,female,yes,24,yes,yes,no,no,,-,
+yes,yes,male,no,216,yes,no,yes,no,,-,
+yes,yes,female,yes,24,yes,yes,yes,no,,-,
+yes,yes,male,no,0.133,,yes,no,no,,-,
+yes,no,male,yes,12,yes,yes,no,no,,-,
+yes,no,male,yes,6,yes,yes,yes,no,,-,
+yes,yes,male,yes,96,no,no,no,no,,-,
+yes,yes,male,yes,84,yes,yes,no,no,,-,
+yes,no,male,no,3,yes,yes,no,yes,,-,
+yes,no,male,no,24,yes,no,no,yes,,-,
+yes,yes,male,no,12,yes,yes,yes,no,,-,
+yes,no,male,yes,,yes,yes,yes,yes,good,skid row housing,no
+yes,yes,female,no,120,yes,yes,yes,yes,good,pastor Andy/mission,no
+yes,yes,male,,,no,,,,,-,
+yes,yes,male,yes,12,yes,yes,yes,no,good,missions,no
+yes,no,male,no,8,yes,yes,no,yes,not good,none,no
+yes,no,male,yes,12,yes,yes,no,yes,not good,none,yes
+yes,yes,male,yes,12,yes,yes,no,yes,good,the mental health,no
+yes,yes,male,no,216,no,no,no,yes,good,santa monica/opcc?,no
+yes,yes,male,no,48,yes,no,no,no,good,all of them,no
+yes,no,male,no,120,no,no,no,no,not good,none,no
+yes,yes,male,no,24,yes,yes,no,no,not good,sro,no
+yes,no,male,no,36,yes,yes,no,no,good,none,no
+yes,yes,male,no,,,,no,no,,-,
+yes,yes,male,no,,no,no,no,no,good,-,no
+yes,no,male,no,48,,yes,no,no,,-,yes
+yes,n/a,male,yes,,,,no,no,,-,no
+yes,yes,male,no,0,yes,yes,,,,will work with case worker probation officer,
+yes,yes,male,yes,6,yes,yes,no,yes,good,union mission,no
+yes,yes,male,yes,84,yes,yes,yes,yes,good,skid now housing ,no
+yes,yes,male,yes,24,yes,yes,yes,yes,good,LA mission,no
+yes,yes,male,yes,4,yes,yes,no,no,good,"LA mission, midwiser mission",no
+yes,yes,male,no,2,yes,no,no,no,good,LA mission,no
+yes,yes,male,no,12,yes,yes,no,no,good,union mission,no
+yes,yes,female,yes,2,yes,yes,yes,no,good,none,no
+yes,yes,male,no,7,yes,yes,yes,no,good,LA mission,no
+yes,yes,male,yes,12,yes,yes,no,no,good,"LA mission, midwiser mission, St Vincent",no
+yes,no,male,no,0.5,yes,yes,no,no,good,none,no
+yes,n/a,male,yes,,no,no,yes,yes,good,vet affairs,no
+yes,yes,male,no,120,yes,yes,yes,no,great,LA missions,no
+yes,yes,male,no,12,yes,yes,no,yes,good,union mission,yes
+yes,yes,female,yes,12,yes,yes,yes,yes,good,social needs,yes
+yes,yes,male,no,36,yes,yes,yes,yes,great,sro,no
+yes,yes,male,yes,204,yes,yes,yes,no,good,"unions, all missions",no
+yes,yes,male,no,12,yes,yes,yes,yes,great,none,yes
+yes,yes,male,no,24,yes,no,no,no,fair,downtown mental health,no
+yes,yes,male,no,228,yes,no,yes,no,not good,downtown clinics,no
+yes,yes,male,no,24,yes,no,yes,no,good,-,no
+yes,yes,male,no,18,yes,no,yes,no,fair,-,no
+yes,yes,male,no,12,yes,no,yes,no,fair,missions,no
+yes,yes,male,no,18,yes,no,yes,no,fair,missions,no
+yes,yes,male,no,6,yes,no,yes,no,good,-,yes
+yes,yes,male,no,12,yes,no,yes,no,fair,-,no
+yes,yes,male,no,9,yes,no,yes,no,fair,-,no
+yes,yes,male,no,6,yes,no,yes,no,fair,missions,no
+yes,yes,male,no,24,yes,no,yes,no,fair,-,no
+yes,yes,female,no,72,yes,no,yes,no,not good,missions,no
+yes,yes,female,no,6,yes,no,yes,no,fair,-,no
+yes,yes,female,no,12,yes,no,yes,no,not good,missions,no
+yes,yes,female,no,3,yes,no,yes,no,fair,-,no
+yes,yes,female,no,12,yes,no,yes,no,fair,disability clinic,no
+yes,yes,female,no,12,yes,no,yes,no,good,-,yes
+yes,yes,female,no,6,yes,no,yes,no,fair,-,no
